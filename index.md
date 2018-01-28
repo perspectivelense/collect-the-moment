@@ -2,9 +2,12 @@
 # Perspective Lens 
 ## #Collect the Moment 
 
+Instagram: og_perspectivelens
 
 ### Please contact David Calderon at: 
 # 437-777-5211
+
+All images copyright of Perpective Lens photography
 
 <!--
 You can use the [editor on GitHub](https://github.com/365propertycare/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
