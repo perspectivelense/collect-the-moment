@@ -1,13 +1,10 @@
 
-## Perspective Lense 
-Collect the Moment 
+# Perspective Lense 
+##Collect the Moment 
 
 Website Under Construction
 
 Please contact David C at: 641-746-4170
-
-Website Under Construction
-
 
 <!--
 You can use the [editor on GitHub](https://github.com/365propertycare/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
