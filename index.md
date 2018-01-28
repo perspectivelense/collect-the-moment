@@ -1,10 +1,10 @@
 
-# Perspective Lense 
-## Collect the Moment 
+# Perspective Lens 
+## #Collect the Moment 
 
-Website Under Construction
 
-### Please contact David C at: 437-777-5211
+### Please contact David Calderon at: 
+# 437-777-5211
 
 <!--
 You can use the [editor on GitHub](https://github.com/365propertycare/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
