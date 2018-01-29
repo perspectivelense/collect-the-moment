@@ -1,6 +1,7 @@
 
 # Perspective Lens 
-## #Collect the Moment 
+
+## Website Under Construction
 
 ### Please contact David Calderon at: 
 # 437-777-5211
